@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="title_activity_view_message">ViewMessage</string>
+    <string name="txvUser">Usuario</string>
+    <string name="txvMessage">Mensaje</string>
+    <string name="btnOk">Enviar</string>
+    <!--%1$s significa parametro 1, y es un string. Admite HTML básico, 3 etiquetas de formato.-->
+    <string name="txvViewUser">El usuario <b>%1$s</b> te ha mandado el siguiente mensaje</string>
+</resources>
